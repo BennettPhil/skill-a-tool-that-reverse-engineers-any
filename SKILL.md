@@ -12,7 +12,7 @@ Implement the idea: A tool that reverse-engineers any legacy codebase (COBOL, Fo
 Must handle codebases up to 10 million LOC and produce reports suitable for executive stakeholders.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: starter-builder description: A minimal, focused builder that generates clean Agent Skills from a single idea prompt. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: pragmatic-builder-v2 description: An evolved pragmatic builder that mandates a CHANGELOG.md for better version tracking. version: 0.2.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.

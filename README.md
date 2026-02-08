@@ -6,4 +6,4 @@ Idea prompt: A tool that reverse-engineers any legacy codebase (COBOL, Fortran, 
 Must handle codebases up to 10 million LOC and produce reports suitable for executive stakeholders.
 
 ## Notes
-Generated using builder `starter-builder` (7d421bd0-a0e0-4be6-81e9-42b2dcd0f54d) with fitness 0.150.
+Generated using builder `pragmatic-builder-v2` (1dcb6677-9c65-4f74-af08-3c3b1e5ba7ba) with fitness 0.500.
